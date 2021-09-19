@@ -115,7 +115,7 @@ namespace TrueRandom
             }
             DateTime endTime = DateTime.Now;
 
-            double timeInTicks = (endTime - startTime).TotalMilliseconds;
+            double timeInTicks = (endTime - startTime).TotalMilliseconds;  
 
             return timeInTicks;
         }

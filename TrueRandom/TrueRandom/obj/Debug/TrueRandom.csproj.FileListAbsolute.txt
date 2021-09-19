@@ -5,3 +5,10 @@ C:\code\TrueRandom\TrueRandom\obj\Debug\TrueRandom.csprojAssemblyReference.cache
 C:\code\TrueRandom\TrueRandom\obj\Debug\TrueRandom.csproj.CoreCompileInputs.cache
 C:\code\TrueRandom\TrueRandom\obj\Debug\TrueRandom.exe
 C:\code\TrueRandom\TrueRandom\obj\Debug\TrueRandom.pdb
+C:\Users\andre\Source\Repos\Andrixio\githubTest\TrueRandom\TrueRandom\bin\Debug\TrueRandom.exe.config
+C:\Users\andre\Source\Repos\Andrixio\githubTest\TrueRandom\TrueRandom\bin\Debug\TrueRandom.exe
+C:\Users\andre\Source\Repos\Andrixio\githubTest\TrueRandom\TrueRandom\bin\Debug\TrueRandom.pdb
+C:\Users\andre\Source\Repos\Andrixio\githubTest\TrueRandom\TrueRandom\obj\Debug\TrueRandom.csprojAssemblyReference.cache
+C:\Users\andre\Source\Repos\Andrixio\githubTest\TrueRandom\TrueRandom\obj\Debug\TrueRandom.csproj.CoreCompileInputs.cache
+C:\Users\andre\Source\Repos\Andrixio\githubTest\TrueRandom\TrueRandom\obj\Debug\TrueRandom.exe
+C:\Users\andre\Source\Repos\Andrixio\githubTest\TrueRandom\TrueRandom\obj\Debug\TrueRandom.pdb
